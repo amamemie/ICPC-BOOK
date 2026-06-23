@@ -1,0 +1,29 @@
+\contentsline {section}{\numberline {1}BIT MANIPULATION}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Binary representation}{1}{subsection.1.1}%
+\contentsline {section}{\numberline {2}DATA STRUCTURES}{1}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Disjoint set union}{1}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Segment tree}{1}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Sparse table}{2}{subsection.2.3}%
+\contentsline {section}{\numberline {3}FLOW}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Dinic}{2}{subsection.3.1}%
+\contentsline {section}{\numberline {4}GEOMETRY}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Convex hull}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Point}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}GRAPH ALGORITHMS}{4}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Bfs}{4}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Dfs}{4}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Dijkstra}{4}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Kruskal mst}{5}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Topological sort kahn algorithm}{5}{subsection.5.5}%
+\contentsline {section}{\numberline {6}MATH}{6}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Binary exponentiation}{6}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Modular inverse}{6}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Pollard rho rabin miller}{6}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Sieve of eratosthenes}{7}{subsection.6.4}%
+\contentsline {section}{\numberline {7}STRINGS}{8}{section.7}%
+\contentsline {subsection}{\numberline {7.1}Hashing}{8}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Kmp}{8}{subsection.7.2}%
+\contentsline {section}{\numberline {8}TREE ALGORITHMS}{9}{section.8}%
+\contentsline {subsection}{\numberline {8.1}Binary lifting}{9}{subsection.8.1}%
+\contentsline {subsection}{\numberline {8.2}Euler tour}{9}{subsection.8.2}%
+\contentsline {subsection}{\numberline {8.3}Lowest common ancestor}{9}{subsection.8.3}%
